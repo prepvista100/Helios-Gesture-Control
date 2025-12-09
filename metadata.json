@@ -1,0 +1,7 @@
+{
+  "name": "Helios Gesture Control",
+  "description": "An advanced 3D solar system visualization controlled via hand gestures and webcam motion analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
